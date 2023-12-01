@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.25)  17 NOV 2023 16:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.25)  1 DEC 2023 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -210,6 +210,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen153
 \Gm@dimlist=\toks17
 )
+(c:/texlive/2022/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
 (c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
@@ -294,6 +297,17 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
 (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -330,24 +344,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 (./main_1.aux)
 \openout1 = `main_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
  (c:/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
@@ -357,7 +371,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
 
 (c:/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 27.
+Package hyperref Info: Link coloring ON on input line 28.
  (./main_1.out)
 (./main_1.out)
 \@outlinefile=\write3
@@ -420,181 +434,258 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
-3.
+4.
 
 (c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-) [1
+)
+<feature_importance.png, id=49, 434.3427pt x 327.3831pt>
+File: feature_importance.png Graphic file (type png)
+<use feature_importance.png>
+Package pdftex.def Info: feature_importance.png  used on input line 47.
+(pdftex.def)             Requested size: 266.14978pt x 200.61755pt.
+ [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<nonsmokeroverall.jpg, id=77, 224.84pt x 193.22188pt>
+<original_data.png, id=63, 416.30531pt x 390.70969pt>
+File: original_data.png Graphic file (type png)
+<use original_data.png>
+Package pdftex.def Info: original_data.png  used on input line 54.
+(pdftex.def)             Requested size: 170.33325pt x 159.85814pt.
+<selected_data.png, id=64, 292.09125pt x 309.40594pt>
+File: selected_data.png Graphic file (type png)
+<use selected_data.png>
+Package pdftex.def Info: selected_data.png  used on input line 59.
+(pdftex.def)             Requested size: 149.04039pt x 157.87991pt.
+<nonsmokeroverall.jpg, id=65, 224.84pt x 193.22188pt>
 File: nonsmokeroverall.jpg Graphic file (type jpg)
 <use nonsmokeroverall.jpg>
-Package pdftex.def Info: nonsmokeroverall.jpg  used on input line 53.
+Package pdftex.def Info: nonsmokeroverall.jpg  used on input line 71.
 (pdftex.def)             Requested size: 170.71652pt x 146.71451pt.
-<smokeroverall.jpg, id=78, 219.82124pt x 182.6825pt>
+<smokeroverall.jpg, id=66, 219.82124pt x 182.6825pt>
 File: smokeroverall.jpg Graphic file (type jpg)
 <use smokeroverall.jpg>
-Package pdftex.def Info: smokeroverall.jpg  used on input line 58.
+Package pdftex.def Info: smokeroverall.jpg  used on input line 76.
 (pdftex.def)             Requested size: 170.71652pt x 141.87851pt.
-<bmi-charge smoker.jpg, id=79, 334.75063pt x 212.29312pt>
-File: bmi-charge smoker.jpg Graphic file (type jpg)
-<use bmi-charge smoker.jpg>
-Package pdftex.def Info: bmi-charge smoker.jpg  used on input line 74.
-(pdftex.def)             Requested size: 170.71652pt x 108.26805pt.
-<age-chargesmoker.jpg, id=80, 334.75063pt x 209.28188pt>
-File: age-chargesmoker.jpg Graphic file (type jpg)
-<use age-chargesmoker.jpg>
-Package pdftex.def Info: age-chargesmoker.jpg  used on input line 79.
-(pdftex.def)             Requested size: 170.71652pt x 106.73233pt.
  [2
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.83 
-     
+l.79 \end{figure}
+                 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.83 
-      <./nonsmokeroverall.jpg> <./smokeroverall.jpg>]
-<cluster result for bmi-charge.jpg, id=91, 322.20375pt x 210.7875pt>
-File: cluster result for bmi-charge.jpg Graphic file (type jpg)
-<use cluster result for bmi-charge.jpg>
-Package pdftex.def Info: cluster result for bmi-charge.jpg  used on input line 
-92.
-(pdftex.def)             Requested size: 170.71652pt x 111.6879pt.
-<clustering result for age-charge.jpg, id=92, 333.245pt x 212.795pt>
-File: clustering result for age-charge.jpg Graphic file (type jpg)
-<use clustering result for age-charge.jpg>
-Package pdftex.def Info: clustering result for age-charge.jpg  used on input li
-ne 97.
-(pdftex.def)             Requested size: 170.71652pt x 109.0143pt.
-<svm.jpg, id=93, 305.64188pt x 206.27063pt>
-File: svm.jpg Graphic file (type jpg)
-<use svm.jpg>
-Package pdftex.def Info: svm.jpg  used on input line 108.
-(pdftex.def)             Requested size: 170.71652pt x 115.21175pt.
-<age-chargenonsmoker.jpg, id=94, 337.76187pt x 213.79875pt>
-File: age-chargenonsmoker.jpg Graphic file (type jpg)
-<use age-chargenonsmoker.jpg>
-Package pdftex.def Info: age-chargenonsmoker.jpg  used on input line 113.
-(pdftex.def)             Requested size: 170.71652pt x 108.06374pt.
- [3
+l.79 \end{figure}
+                 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.120 
-      
+l.79 \end{figure}
+                  <./feature_importance.png> <./original_data.png> <./selected_
+data.png>]
+<bmi-charge smoker.jpg, id=80, 334.75063pt x 212.29312pt>
+File: bmi-charge smoker.jpg Graphic file (type jpg)
+<use bmi-charge smoker.jpg>
+Package pdftex.def Info: bmi-charge smoker.jpg  used on input line 93.
+(pdftex.def)             Requested size: 170.71652pt x 108.26805pt.
+<age-chargesmoker.jpg, id=81, 334.75063pt x 209.28188pt>
+File: age-chargesmoker.jpg Graphic file (type jpg)
+<use age-chargesmoker.jpg>
+Package pdftex.def Info: age-chargesmoker.jpg  used on input line 98.
+(pdftex.def)             Requested size: 170.71652pt x 106.73233pt.
+<pairplot.png, id=82, 534.798pt x 535.5207pt>
+File: pairplot.png Graphic file (type png)
+<use pairplot.png>
+Package pdftex.def Info: pairplot.png  used on input line 107.
+(pdftex.def)             Requested size: 310.50357pt x 310.92908pt.
+ [3
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.120 
+l.110 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.120 
+l.110 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.120 
+l.110 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.120 
-      
+l.110 
+       <./nonsmokeroverall.jpg> <./smokeroverall.jpg> <./bmi-charge smoker.jpg>
+ <./age-chargesmoker.jpg>]
+<GMM_clustering_smoker.png, id=91, 408.3255pt x 327.3831pt>
+File: GMM_clustering_smoker.png Graphic file (type png)
+<use GMM_clustering_smoker.png>
+Package pdftex.def Info: GMM_clustering_smoker.png  used on input line 124.
+(pdftex.def)             Requested size: 266.14978pt x 213.39594pt.
+<clustering_smoker_3d_plot.png, id=92, 327.47343pt x 393.72093pt>
+File: clustering_smoker_3d_plot.png Graphic file (type png)
+<use clustering_smoker_3d_plot.png>
+Package pdftex.def Info: clustering_smoker_3d_plot.png  used on input line 129.
+
+(pdftex.def)             Requested size: 266.14978pt x 319.99359pt.
+ [4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.120 
-       <./bmi-charge smoker.jpg> <./age-chargesmoker.jpg> <./cluster result for
- bmi-charge.jpg> <./clustering result for age-charge.jpg> <./svm.jpg> <./age-ch
-argenonsmoker.jpg>]
-<GMM RESULT with nonsmoker.jpg, id=105, 340.27126pt x 212.29312pt>
-File: GMM RESULT with nonsmoker.jpg Graphic file (type jpg)
-<use GMM RESULT with nonsmoker.jpg>
-Package pdftex.def Info: GMM RESULT with nonsmoker.jpg  used on input line 125.
-
-(pdftex.def)             Requested size: 170.71652pt x 106.5091pt.
-<SVM2.jpg, id=106, 301.62688pt x 202.25563pt>
-File: SVM2.jpg Graphic file (type jpg)
-<use SVM2.jpg>
-Package pdftex.def Info: SVM2.jpg  used on input line 130.
-(pdftex.def)             Requested size: 170.71652pt x 114.47215pt.
-
-Overfull \hbox (3.42342pt too wide) in paragraph at lines 147--147
-[]\T1/cmr/bx/n/14.4 Multiple Lin-ear Re-gres-sion with higher-charges smok-ers 
-cat-
- []
-
-[4
+l.131 \end{figure}
+                   <./pairplot.png>]
+<non_smoker_scatter.png, id=104, 312.9291pt x 298.4751pt>
+File: non_smoker_scatter.png Graphic file (type png)
+<use non_smoker_scatter.png>
+Package pdftex.def Info: non_smoker_scatter.png  used on input line 140.
+(pdftex.def)             Requested size: 266.14978pt x 253.87354pt.
+ [5
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.150 
-      
+l.141 \end{figure}
+                  
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.150 
-       <./GMM RESULT with nonsmoker.jpg> <./SVM2.jpg>]
-Overfull \hbox (19.43346pt too wide) in paragraph at lines 171--177
+l.141 \end{figure}
+                   <./GMM_clustering_smoker.png> <./clustering_smoker_3d_plot.p
+ng>]
+<GMM RESULT with nonsmoker.jpg, id=113, 340.27126pt x 212.29312pt>
+File: GMM RESULT with nonsmoker.jpg Graphic file (type jpg)
+<use GMM RESULT with nonsmoker.jpg>
+Package pdftex.def Info: GMM RESULT with nonsmoker.jpg  used on input line 148.
+
+(pdftex.def)             Requested size: 170.71652pt x 106.5091pt.
+<SVM2.jpg, id=114, 301.62688pt x 202.25563pt>
+File: SVM2.jpg Graphic file (type jpg)
+<use SVM2.jpg>
+Package pdftex.def Info: SVM2.jpg  used on input line 153.
+(pdftex.def)             Requested size: 170.71652pt x 114.47215pt.
+ [6
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.180 $$
+        
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.180 $$
+         <./non_smoker_scatter.png> <./GMM RESULT with nonsmoker.jpg> <./SVM2.j
+pg>]
+<regression_smoker_class1.png, id=130, 327.47343pt x 393.72093pt>
+File: regression_smoker_class1.png Graphic file (type png)
+<use regression_smoker_class1.png>
+Package pdftex.def Info: regression_smoker_class1.png  used on input line 188.
+(pdftex.def)             Requested size: 149.04039pt x 179.19136pt.
+<regression_smoker_class2.png, id=131, 327.47343pt x 393.72093pt>
+File: regression_smoker_class2.png Graphic file (type png)
+<use regression_smoker_class2.png>
+Package pdftex.def Info: regression_smoker_class2.png  used on input line 193.
+(pdftex.def)             Requested size: 149.04039pt x 179.19136pt.
+<regression_non-smoker.png, id=132, 327.47343pt x 393.72093pt>
+File: regression_non-smoker.png Graphic file (type png)
+<use regression_non-smoker.png>
+Package pdftex.def Info: regression_non-smoker.png  used on input line 202.
+(pdftex.def)             Requested size: 149.04039pt x 179.19136pt.
+File: regression_non-smoker.png Graphic file (type png)
+<use regression_non-smoker.png>
+Package pdftex.def Info: regression_non-smoker.png  used on input line 207.
+(pdftex.def)             Requested size: 149.04039pt x 179.19136pt.
+ [7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.243 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.243 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.243 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.243 
+       <./regression_smoker_class1.png> <./regression_smoker_class2.png> <./reg
+ression_non-smoker.png>]
+Overfull \hbox (19.43346pt too wide) in paragraph at lines 246--254
 [][]$\T1/cmtt/m/n/12 https : / / drive . google . com / file / d / 1 _ VQk7 _ K
 oigrBS3NEPzBX5rdbI6CE4w43 / view ? usp =
  []
 
-
-Overfull \hbox (19.93346pt too wide) in paragraph at lines 171--177
-[][]$\T1/cmtt/m/n/12 https : / / drive . google . com / file / d / 1VziKPOPhUNz
-KtoHm06vYHopCrpNNXNq-[] / view ? usp =
- []
-
-[5] [6] (./main_1.aux)
+[8] (./main_1.aux)
 Package rerunfilecheck Info: File `main_1.out' has not changed.
-(rerunfilecheck)             Checksum: EE2196A56EC0C16875739D2FE982A186;3102.
+(rerunfilecheck)             Checksum: 7A5766CF22A33C3CCB1B0A3F2006C632;1706.
  ) 
 Here is how much of TeX's memory you used:
- 10890 strings out of 476091
- 172316 string characters out of 5795540
- 1859324 words of memory out of 5000000
- 31085 multiletter control sequences out of 15000+600000
- 525089 words of font info for 60 fonts, out of 8000000 for 9000
+ 11500 strings out of 476091
+ 180474 string characters out of 5795540
+ 1860324 words of memory out of 5000000
+ 31656 multiletter control sequences out of 15000+600000
+ 527711 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,76p,794b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,76p,792b,476s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texl
-ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/tex
-live/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/
-texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist
-/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/
-cm-super/sfrm1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/s
-frm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pf
-b><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texl
-ive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main_1.pdf (6 pages, 685441 bytes).
+ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/te
+xlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texliv
+e/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2022/tex
+mf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fo
+nts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
+public/cm-super/sfrm1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-
+super/sfrm1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm
+1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><
+c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive
+/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on main_1.pdf (8 pages, 883212 bytes).
 PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
- 160 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 242 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
