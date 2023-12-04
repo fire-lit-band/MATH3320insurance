@@ -1,7 +1,0 @@
-1.分non-smoker/ smoker分别做
-
-2. smoker: 
-2.1 用GMM clustering分类,如果只看BMI-charges，可以分成两个类。可以对新的（BMI-age-charges）观测点，可以预测在哪个类里面。
-2.2 对每个类做预测模型
-2.3 对测试点（BMI-age），预测charge
-
